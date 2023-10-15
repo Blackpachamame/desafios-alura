@@ -1,9 +1,9 @@
-# $\Huge\color{rgb(219, 175, 109)}{\texttt{Challenge ONE | Front End -  Portafolio}}$
+# Challenge ONE | Frontend - Portafolio 🧑
 
 <div align="center">
 <img src="assets/images/portafolio-preview.png"></img>
   <h3>
-    <a href="https://blackpachamame.github.io/desafíos-oracle/portfolio/">
+    <a href="https://blackpachamame.github.io/desafios-alura/portfolio/">
       🙊 Sitio en vivo
     </a>
     <span> | </span>
@@ -13,7 +13,7 @@
   </h3>
 </div>
 
-## $\normalsize\color{rgb(219, 175, 109)}{\texttt{Requisitos}}$ 📌
+## Requisitos 📌
 
 En esta sprint, vamos a trabajar en la construcción de un Portafolio, para que puedas mostrar tus proyectos a posibles reclutadores.
 
@@ -47,17 +47,17 @@ En esta sprint, vamos a trabajar en la construcción de un Portafolio, para que 
 -   Debe tener un Footer con la información de la persona que desarrolló el portafolio.
 -   Es de extrema importancia que el portafolio sea responsivo, lo que quiere decir que debe adaptarse a los diferentes tamaños de pantallas, pudiendo ser desktop, tablet o celular.
 
-## $\normalsize\color{rgb(219, 175, 109)}{\texttt{Extras}}$ ➕
+## Extras ➕
 
 - La página debe contener un botón que le permita ver, en una nueva pestaña, una versión PDF de su currículum.
 
-## $\normalsize\color{rgb(219, 175, 109)}{\texttt{Correcciones}}$ ✏️
+## Correcciones ✏️
 
 - Corrección del `index.html`, se encontraron errores de semántica y de sintaxis.
 - Se reemplazaron la mayoría de las imágenes por iconos de fontawesome.
 - El resto de las imágenes fueron actualizadas y optimizadas.
 
-## $\normalsize\color{rgb(219, 175, 109)}{\texttt{Recursos útiles}}$ 📚
+## Recursos útiles 📚
 
 - [Fontawesome](https://fontawesome.com) - Iconos gratis.
 - [Get Emoji](https://getemoji.com) - ✂️ Copy and 📋 Paste Emoji 👍.
