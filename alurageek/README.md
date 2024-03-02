@@ -22,6 +22,12 @@ Para ello están pidiendo nuestra ayuda como desarrolladores, el e-commerce debe
 
 **Es muy importante que el sitio sea adaptable** para que los clientes puedan comprar fácilmente a través de dispositivos móviles.
 
+## Construido con 🔨
+- HTML
+- CSS
+- JavaScript
+- Mockapi
+
 ## Recursos útiles 📌
 
 - [JSON Server](https://github.com/typicode/json-server) - Obtenga una API REST falsa completa sin codificación en menos de 30 segundos.
